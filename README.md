@@ -21,6 +21,12 @@ Below you can find some examples of the circuits:
 <img src="https://github.com/user-attachments/assets/14017a23-acf9-47a4-aa18-14f8331aa27d" width="600">
 
 
-<p><b>Here you can find some real-life tests:</b></p>
+<p><b>🎥 Here you can find some real-life tests:</b></p>
+
+
+- [▶️ 1.MOV](Video%20tests/1.MOV)
+- [▶️ 2.MOV](Video%20tests/2.MOV)
+- [▶️ 3.MOV](Video%20tests/3.MOV)
+- [▶️ 4.MOV](Video%20tests/4.MOV)
 
 
