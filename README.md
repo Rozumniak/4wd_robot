@@ -23,10 +23,4 @@ Below you can find some examples of the circuits:
 
 <p><b>Here you can find some real-life tests:</b></p>
 
-https://youtube.com/shorts/DspbCKt7hmA
 
-https://youtube.com/shorts/5hzHP72anqo
-
-https://youtube.com/shorts/F9YsYlWNWQo
-
-https://youtube.com/shorts/PcN3lOSMUQs
