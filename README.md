@@ -1,5 +1,7 @@
 # 4wd_robot_v1
-This <a href="https://www.youtube.com/watch?v=lSuZmr3-UVs&ab_channel=FreeArtist">robot</a> is made to inspect hard-to-reach places, such as ventilation systems, pipes, and rooms where it is not safe for a person to be.     
+v2 - is here https://github.com/Rozumniak/ros_kinect_autopilot
+<br>
+<br>This <a href="https://www.youtube.com/watch?v=lSuZmr3-UVs&ab_channel=FreeArtist">robot</a> is made to inspect hard-to-reach places, such as ventilation systems, pipes, and rooms where it is not safe for a person to be.     
 This is a module platform based on the Arduino Mega microcontroller. All body parts could be 3D printed. 
 
 <img src="https://github.com/user-attachments/assets/25a26773-4c5f-447b-be8d-55c657cfc113" width="600">
